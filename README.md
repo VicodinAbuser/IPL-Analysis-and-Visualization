@@ -56,5 +56,6 @@ Analysis done so far :
 <div>
   <img src="(https://user-images.githubusercontent.com/47989231/117182751-60a53f80-adf4-11eb-838f-10e802774ab5.png" width=850 height=700>
 </div>
+![image](https://user-images.githubusercontent.com/47989231/117183062-bed22280-adf4-11eb-9f77-616b3e5fd077.png)
 
 
