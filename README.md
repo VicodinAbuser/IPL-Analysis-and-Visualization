@@ -18,12 +18,12 @@ Analysis done so far :
 ### AB de Villiers Innings wise numbers breakdown in wins & losses
 
 <div>
-  <img src="https://user-images.githubusercontent.com/47989231/117177505-b7a81600-adee-11eb-9568-f4fd7d084820.png" width=450 height=250>
-  <img src="https://user-images.githubusercontent.com/47989231/117177521-becf2400-adee-11eb-9075-0e82d33cde99.png" width=450 height=250 hspace=20>
+  <img src="https://user-images.githubusercontent.com/47989231/117177505-b7a81600-adee-11eb-9568-f4fd7d084820.png" width=400 height=220>
+  <img src="https://user-images.githubusercontent.com/47989231/117177521-becf2400-adee-11eb-9075-0e82d33cde99.png" width=400 height=220 hspace=20>
 </div>
 <div>
-  <img src="https://user-images.githubusercontent.com/47989231/117177531-c262ab00-adee-11eb-9244-fba19c12d8a6.png" width=450 height=250>
-  <img src="https://user-images.githubusercontent.com/47989231/117177546-c68ec880-adee-11eb-9819-11e56f0944e3.png" width=450 height=250 hspace=20>
+  <img src="https://user-images.githubusercontent.com/47989231/117177531-c262ab00-adee-11eb-9244-fba19c12d8a6.png" width=400 height=220>
+  <img src="https://user-images.githubusercontent.com/47989231/117177546-c68ec880-adee-11eb-9819-11e56f0944e3.png" width=400 height=220 hspace=20>
 </div>
 
 <hr>
@@ -31,12 +31,12 @@ Analysis done so far :
 ### Analysis of batsmen in the Mumbai & Chennai leg of IPL 2021
 
 <div>
-  <img src="https://user-images.githubusercontent.com/47989231/117181167-921d0b80-adf2-11eb-84a1-fdbd59faf0c5.png" width=450 height=250>
-  <img src="https://user-images.githubusercontent.com/47989231/117181185-96e1bf80-adf2-11eb-98e0-9713ec8466d8.png" width=450 height=250 hspace=20>
+  <img src="https://user-images.githubusercontent.com/47989231/117181167-921d0b80-adf2-11eb-84a1-fdbd59faf0c5.png" width=400 height=220>
+  <img src="https://user-images.githubusercontent.com/47989231/117181185-96e1bf80-adf2-11eb-98e0-9713ec8466d8.png" width=400 height=220 hspace=20>
 </div>
 <div>
-  <img src="https://user-images.githubusercontent.com/47989231/117181198-9ba67380-adf2-11eb-8a19-5b5a981f0c4c.png" width=450 height=250>
-  <img src="https://user-images.githubusercontent.com/47989231/117181231-a19c5480-adf2-11eb-9699-5303ce30d1f5.png" width=450 height=250 hspace=20>
+  <img src="https://user-images.githubusercontent.com/47989231/117181198-9ba67380-adf2-11eb-8a19-5b5a981f0c4c.png" width=400 height=220>
+  <img src="https://user-images.githubusercontent.com/47989231/117181231-a19c5480-adf2-11eb-9699-5303ce30d1f5.png" width=400 height=220 hspace=20>
 </div>
 
 <hr>
@@ -44,9 +44,9 @@ Analysis done so far :
 ### Best Batsmen against Rashid Khan in IPL History
 
 <div>
-  <img src="https://user-images.githubusercontent.com/47989231/117181823-428b0f80-adf3-11eb-809c-18723ef8efdd.png" width=300 height=250>
-  <img src="https://user-images.githubusercontent.com/47989231/117181845-474fc380-adf3-11eb-9cef-88a0c0d13e5e.png" width=300 height=250 hspace=20>
-  <img src="https://user-images.githubusercontent.com/47989231/117181804-3dc65b80-adf3-11eb-9177-cefefef94a40.png" width=300 height=250>
+  <img src="https://user-images.githubusercontent.com/47989231/117181823-428b0f80-adf3-11eb-809c-18723ef8efdd.png" width=270 height=230>
+  <img src="https://user-images.githubusercontent.com/47989231/117181845-474fc380-adf3-11eb-9cef-88a0c0d13e5e.png" width=270 height=230 hspace=20>
+  <img src="https://user-images.githubusercontent.com/47989231/117181804-3dc65b80-adf3-11eb-9177-cefefef94a40.png" width=270 height=230>
 </div>
 
 <hr>
