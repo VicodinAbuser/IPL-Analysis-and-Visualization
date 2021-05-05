@@ -54,8 +54,7 @@ Analysis done so far :
 ### Dan Christian vs Kane Richardson - Bowling Comparison in IPL
 
 <div>
-  <img src="(https://user-images.githubusercontent.com/47989231/117182751-60a53f80-adf4-11eb-838f-10e802774ab5.png" width=850 height=700>
+  <img src="https://user-images.githubusercontent.com/47989231/117183307-05c01800-adf5-11eb-8391-4ba2cbca74eb.png">
 </div>
-![image](https://user-images.githubusercontent.com/47989231/117183062-bed22280-adf4-11eb-9f77-616b3e5fd077.png)
 
 
